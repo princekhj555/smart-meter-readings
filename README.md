@@ -1,4 +1,8 @@
-# Smart Meter Dashboard : https://smartmeterinsights.netlify.app/
+# Smart Meter Dashboard 
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d8930941-5a70-4c67-ae6e-5f302585c3be/deploy-status)](https://app.netlify.com/projects/smartmeterinsights/deploys)
+
+APP URL: : https://smartmeterinsights.netlify.app
 
 A lightweight **smart meter reading dashboard** built as a single static HTML page in `index.html`.
 
