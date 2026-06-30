@@ -1,4 +1,4 @@
-# Smart Meter Dashboard
+# Smart Meter Dashboard : https://smartmeterinsights.netlify.app/
 
 A lightweight **smart meter reading dashboard** built as a single static HTML page in `index.html`.
 
